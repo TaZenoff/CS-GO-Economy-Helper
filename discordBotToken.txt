@@ -1,0 +1,1 @@
+Write your token here (This file should contain only your discord bot token)
