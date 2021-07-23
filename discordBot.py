@@ -1,3 +1,5 @@
+#The code was written by TaZenoff
+
 import os
 
 try:
